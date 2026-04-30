@@ -1,0 +1,1 @@
+print("Nombre de cerveza: "+ input("Dime tu nombre: ") + input("Dime año de nacimiento: "))
